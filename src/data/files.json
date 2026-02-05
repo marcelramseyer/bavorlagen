@@ -1,12 +1,12 @@
 [
   {
     "id": "001",
-    "title": "System Usability Scale SUS",
-    "description": "Gerne stellen wir Ihnen Wissen, Erfahrung und 100 % Leidenschaft für Ihre Projekte und Ihre Softwareentwicklung zur Verfügung. Wir helfen Ihnen bei der Erhebung, Strukturierung und Verwaltung von Anforderungen. Wir unterstützen Sie beim Identifizieren von technischen Zusammenhängen und wir realisieren Ihre Anforderungen in Java, .NET oder per Web-Technologie.",
-    "fileFormat": "PDF",
-    "category": "Projektmanagement",
-    "lastUpdated": "2025-04-08",
-    "fileUrl": ""
+    "title": "Data Dictionary",
+    "description": "Ein Data Dictionary ist eine strukturierte Übersicht aller Datenfelder eines Systems oder Projekts, inklusive Name, Datentyp, Beschreibung, Format und Beziehung zu anderen Daten. Es hilft, Verständnis für die Datenstruktur zu schaffen, Konsistenz sicherzustellen und Anforderungen klar zu dokumentieren. Zudem relevant bei der Datenmodellierung, Schnittstellen-Definitionen und Systemdokumentation.",
+    "fileFormat": "Excel",
+    "category": "Business Analysis",
+    "lastUpdated": "2026-02-02",
+    "fileUrl": "https://www.dropbox.com/scl/fi/jxz6c9ycse6iv2dc690nk/Data-Dictionary.xlsx?rlkey=qljnhgudviiv69in9nbrhc8bg&st=esgp75tz&dl=1"
   },
   {
     "id": "002",

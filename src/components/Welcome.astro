@@ -28,20 +28,20 @@ import { Badge } from '@/components/starwind/badge';
   >
     <div>
       <div class="flex">
-        <div class="text-7xl mt-6 mb-8 font-bold tracking-tighter">
+        <div class="text-7xl mt-6 mb-8 font-bold tracking-tight">
           <!-- <span class="text-green-300">✺</span>  -->
-          BA Templates
+          Vorlagensammlung
         </div>
       </div>
       <div class="max-w-5xl text-2xl mb-8 leading-normal font-normal">
-        Sammlung bewährter Vorlagen für Business Analyse, UX-Methoden und
-        projektbezogene Dokumentation. Downloaden und sofort loslegen
-        praxisorientiert und direkt anwendbar. <br /> Downloaden und sofort loslegen
-        praxisorientiert und direkt anwendbar.
+        Diese Seite enthält eine Sammlung von Vorlagen aus den Themenbereichen
+        Projektmanagement, Business Analysis, Requirements Engineering, UX
+        Design und Prozessmanagement. Alle Vorlagen stehen als Download zur
+        Verfügung und können frei verwendet und angepasst werden.
       </div>
       <div class="mb-12 text-sm text-white/75">
-        © 2026 Marcel Ramseyer · Feedback per <span
-          class="underline underline-offset-3">E-Mail</span
+        © 2026 Marcel Ramseyer · <span class="underline underline-offset-3"
+          >Feedback</span
         > · Letzte Aktualisierung: 25.01.2026
       </div>
     </div>
@@ -99,9 +99,7 @@ import { Badge } from '@/components/starwind/badge';
                       variant="outline"
                       class="rounded-full mt-6 mb-6 font-normal text-sm"
                     >
-                      <a href="https://www.dropbox.com/scl/fi/80ok47j6ji01eidjs4pxe/UAT-Template.xlsx?rlkey=smadsrhk6pk76c2nzqv97z146&st=m7cqo6hr&dl=1">
-                        ↓ Download
-                      </a>
+                      <a href={file.data.fileUrl}>↓ Download</a>
                     </Button>
                   </div>
                 </div>
